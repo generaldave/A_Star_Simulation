@@ -1,7 +1,7 @@
 A* search simulator
 
 - Uing p5js
-- Based on a small series of video by Daniel Shiffman: https://www.youtube.com/watch?v=aKYlikFAV4k
+- Based on a small series of videos by Daniel Shiffman: https://www.youtube.com/watch?v=aKYlikFAV4k
 
 App visualizes an A* search algorithm. The "maze" is to find it's way from the top left corner to the bottom right. The black squares represent walls, that are not passable. The pastel-ish red are squares that were already evaluated and the pastel-ish green are squares that are in line to be evaluated.
 
